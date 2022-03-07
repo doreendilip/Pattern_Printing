@@ -1,2 +1,2 @@
-# Pattern_Printing
-Prints half pyramids whose size and number of repetitions are user defined.
+# Password_Generator
+Gets DOB from user, makes the variable undergo undergo a series of processes to generate a new password
